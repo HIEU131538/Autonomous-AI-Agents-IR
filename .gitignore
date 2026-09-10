@@ -12,3 +12,5 @@ kma-cyber-range/logs/
 .env
 .vscode/
 .DS_Store
+
+*:Zone.Identifier
